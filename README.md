@@ -11,6 +11,7 @@ After coming across this OpenTable Dataset of year-over-year comparisons of rest
 * The slope of the recovery trendlines for cities in the OpenTable data shows clear differences in the "eagerness to return" of different cities, perhaps dictated by economic reactivation policies.
 
 ## Google's Community Mobility Reports vs OpenTable's reservation dataset
+# (Tableau Visualizations)
 ![](https://github.com/escobarfabio/Toronto-Retail/blob/master/fig1.png?raw=true)
 
 ![](https://github.com/escobarfabio/Toronto-Retail/blob/master/fig3.png?raw=True)
