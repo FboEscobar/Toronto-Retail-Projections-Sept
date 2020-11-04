@@ -9,3 +9,6 @@ After coming across this OpenTable Dataset of year-over-year comparisons of rest
 * Forecast from Google Community Mobility Reports shows a return to normal levels by around November of this year.
 * Forecast from Toronto's OpenTable data shows a return to normal levels by December.
 * The slope of the recovery trendlines for cities in the OpenTable data shows clear differences in the "eagerness to return" of different cities, perhaps dictated by economic reactivation policies.
+
+
+![](https://github.com/escobarfabio/Toronto-Retail/blob/master/fig5.png?raw=True)
